@@ -41,3 +41,5 @@ questions_url: https://spring.io/questions
 
 version: 1.0.0.BUILD-SNAPSHOT
 exclude: [code]
+
+theme: jekyll-theme-slate
